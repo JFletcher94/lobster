@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Antigravity
+comment1.params=
+comment1.target=Antigravity()
+comment2.params=lobster
+comment2.target=void\ power(Lobster)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

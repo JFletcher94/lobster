@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Lobster
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=void\ addPU()
+comment11.params=
+comment11.target=void\ die()
+comment12.params=s
+comment12.target=java.lang.String\ addCommas(java.lang.String)
+comment2.params=
+comment2.target=void\ setTimers()
+comment3.params=toDraw\ str
+comment3.target=void\ draw(ToDraw,\ java.lang.Object)
+comment4.params=
+comment4.target=void\ setMove()
+comment5.params=
+comment5.target=boolean\ check()
+comment6.params=spider
+comment6.target=boolean\ checkSpider(Spider)
+comment7.params=sp
+comment7.target=boolean\ checkWeb(Spider)
+comment8.params=
+comment8.target=void\ checkPU()
+comment9.params=
+comment9.target=void\ addSpider()
+numComments=13

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SwingSpider
+comment1.params=old
+comment1.target=SwingSpider(Spider)
+comment2.params=
+comment2.target=void\ setTheta()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ pendulate()
+comment5.params=
+comment5.target=boolean\ check()
+comment6.params=
+comment6.target=void\ drawWeb()
+numComments=7

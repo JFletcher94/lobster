@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Spider
+comment1.params=
+comment1.target=Spider()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ drawWeb()
+comment4.params=
+comment4.target=boolean\ check()
+comment5.params=
+comment5.target=void\ die()
+comment6.params=
+comment6.target=void\ kill()
+numComments=7

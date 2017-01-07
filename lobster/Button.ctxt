@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Button
+comment1.params=rotation\ cl
+comment1.target=Button(int,\ boolean)
+comment2.params=
+comment2.target=Button()
+comment3.params=
+comment3.target=void\ act()
+numComments=4
